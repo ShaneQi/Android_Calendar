@@ -8,9 +8,9 @@ https://github.com/qizt/Calendar_Project
 ===DIRECTORY===
 1. All of the source code may be found in the "Calendar" folder. It may also
 	be found in the online repository in the folder "TRUNKYO/Calendar".
-2. The executable binary code (apk file) is "Calendar.apk" and is located in 
-	the same file as this ReadMe. 
-3. The unit tests and bug reports are found in the "JUnit Tests" folder. It 
+2. The executable binary code (apk file) is "Calendar.apk" and is located in
+	the same file as this ReadMe.
+3. The unit tests and bug reports are found in the "JUnit Tests" folder. It
 	may also be found in the online repository under "JUNIT".
 4. The relevant API documents are found in the "API JavaDocs" folder. They can
 	also be found in "doc" folder inside the actual project folder.
@@ -19,7 +19,7 @@ https://github.com/qizt/Calendar_Project
 
 ===MAIN CONTRIBUTIONS===
 nxr131730 - Requirement Engineering, Design, Presentation, Documentation and Reports
-zxq150130 - Requirement engineering, design, and implementation.
+zxq150130 - Requirement engineering, design, implementation, and Github management.
 ujc130030 - Engineering reqs, designing, programming, and testing the application.
 xxt150630 - Requirement engineering, design, implementation, and unit test.
 bxk150330 - Requirement Engineering, Presentation, implementation and user manuals.
