@@ -18,7 +18,7 @@ https://github.com/qizt/Calendar_Project
 	using Notepad or most text editors.
 
 ===MAIN CONTRIBUTIONS===
-nxr131730 - Requirement Engineering, Design, Documentation and Reports
+nxr131730 - Requirement Engineering, Design, Presentation, Documentation and Reports
 zxq150130 -
 ujc130030 - Programming the application.
 xxt150630 - 
