@@ -19,7 +19,7 @@ https://github.com/qizt/Calendar_Project
 
 ===MAIN CONTRIBUTIONS===
 nxr131730 - Requirement Engineering, Design, Presentation, Documentation and Reports
-zxq150130 - Requirement engineering, design, implementation, and Github management.
+zxq150130 - Requirement engineering, design, implementation, unit test, and Github management.
 ujc130030 - Engineering reqs, designing, programming, and testing the application.
 xxt150630 - Requirement engineering, design, implementation, and unit test.
 bxk150330 - Requirement Engineering, Presentation, implementation and user manuals.
